@@ -6,6 +6,7 @@
             <class name="com.archermind.main.Demo"/>
         </classes>
     </test> <!-- prismServerFuncTest -->
+
 </suite> <!-- Default Suite -->
 
 
